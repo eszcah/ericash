@@ -21,7 +21,7 @@ title                    : "Test Wesbsite!!!1!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Erica Hsieh"
-description              : "Erica write a bio here later."
+description              : "Test website for erica."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,15 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Erica Hsieh"
+  avatar           : "/assets/images/raj.jpeg"
+  bio              : "IErica write a bio here later."
+  location         : "SC or Chicago"
   email            :
   links:
-    - label: "Email"
+    - label: "emh6328@psu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:emh6328@psu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
